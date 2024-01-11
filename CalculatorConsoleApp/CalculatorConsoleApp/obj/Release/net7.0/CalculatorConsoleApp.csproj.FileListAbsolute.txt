@@ -1,0 +1,15 @@
+/Users/carlosdnicolau/projects/CalculatorConsole/CalculatorConsoleApp/CalculatorConsoleApp/bin/Release/net7.0/CalculatorConsoleApp
+/Users/carlosdnicolau/projects/CalculatorConsole/CalculatorConsoleApp/CalculatorConsoleApp/bin/Release/net7.0/CalculatorConsoleApp.deps.json
+/Users/carlosdnicolau/projects/CalculatorConsole/CalculatorConsoleApp/CalculatorConsoleApp/bin/Release/net7.0/CalculatorConsoleApp.runtimeconfig.json
+/Users/carlosdnicolau/projects/CalculatorConsole/CalculatorConsoleApp/CalculatorConsoleApp/bin/Release/net7.0/CalculatorConsoleApp.dll
+/Users/carlosdnicolau/projects/CalculatorConsole/CalculatorConsoleApp/CalculatorConsoleApp/bin/Release/net7.0/CalculatorConsoleApp.pdb
+/Users/carlosdnicolau/projects/CalculatorConsole/CalculatorConsoleApp/CalculatorConsoleApp/obj/Release/net7.0/CalculatorConsoleApp.csproj.AssemblyReference.cache
+/Users/carlosdnicolau/projects/CalculatorConsole/CalculatorConsoleApp/CalculatorConsoleApp/obj/Release/net7.0/CalculatorConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/carlosdnicolau/projects/CalculatorConsole/CalculatorConsoleApp/CalculatorConsoleApp/obj/Release/net7.0/CalculatorConsoleApp.AssemblyInfoInputs.cache
+/Users/carlosdnicolau/projects/CalculatorConsole/CalculatorConsoleApp/CalculatorConsoleApp/obj/Release/net7.0/CalculatorConsoleApp.AssemblyInfo.cs
+/Users/carlosdnicolau/projects/CalculatorConsole/CalculatorConsoleApp/CalculatorConsoleApp/obj/Release/net7.0/CalculatorConsoleApp.csproj.CoreCompileInputs.cache
+/Users/carlosdnicolau/projects/CalculatorConsole/CalculatorConsoleApp/CalculatorConsoleApp/obj/Release/net7.0/CalculatorConsoleApp.dll
+/Users/carlosdnicolau/projects/CalculatorConsole/CalculatorConsoleApp/CalculatorConsoleApp/obj/Release/net7.0/refint/CalculatorConsoleApp.dll
+/Users/carlosdnicolau/projects/CalculatorConsole/CalculatorConsoleApp/CalculatorConsoleApp/obj/Release/net7.0/CalculatorConsoleApp.pdb
+/Users/carlosdnicolau/projects/CalculatorConsole/CalculatorConsoleApp/CalculatorConsoleApp/obj/Release/net7.0/CalculatorConsoleApp.genruntimeconfig.cache
+/Users/carlosdnicolau/projects/CalculatorConsole/CalculatorConsoleApp/CalculatorConsoleApp/obj/Release/net7.0/ref/CalculatorConsoleApp.dll

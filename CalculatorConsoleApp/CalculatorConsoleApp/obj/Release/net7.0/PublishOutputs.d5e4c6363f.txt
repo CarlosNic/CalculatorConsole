@@ -1,0 +1,5 @@
+/Users/carlosdnicolau/projects/CalculatorConsole/CalculatorConsoleApp/CalculatorConsoleApp/bin/Release/net7.0/publish/CalculatorConsoleApp
+/Users/carlosdnicolau/projects/CalculatorConsole/CalculatorConsoleApp/CalculatorConsoleApp/bin/Release/net7.0/publish/CalculatorConsoleApp.dll
+/Users/carlosdnicolau/projects/CalculatorConsole/CalculatorConsoleApp/CalculatorConsoleApp/bin/Release/net7.0/publish/CalculatorConsoleApp.deps.json
+/Users/carlosdnicolau/projects/CalculatorConsole/CalculatorConsoleApp/CalculatorConsoleApp/bin/Release/net7.0/publish/CalculatorConsoleApp.runtimeconfig.json
+/Users/carlosdnicolau/projects/CalculatorConsole/CalculatorConsoleApp/CalculatorConsoleApp/bin/Release/net7.0/publish/CalculatorConsoleApp.pdb
